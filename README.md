@@ -1,6 +1,5 @@
-# global-computation-backup
-
 Global Computation Backup (GCB)
+
 A Symbolic Logic Ledger for Universal Computation State
 
 About This Project
