@@ -4,6 +4,7 @@ Global Computation Backup (GCB)
 A Symbolic Logic Ledger for Universal Computation State
 
 About This Project
+
 The Global Computation Backup (GCB) is a symbolic-arithmetic logic system designed to capture, encode, and restore computation itself — not just its outputs.
 
 Powered by Matrix [0211] Dual-Delta Logic, GCB records both arithmetic results and symbolic transformations, creating a universal ledger of computational logic.
