@@ -10,6 +10,7 @@ The Global Computation Backup (GCB) is a symbolic-arithmetic logic system design
 Powered by Matrix [0211] Dual-Delta Logic, GCB records both arithmetic results and symbolic transformations, creating a universal ledger of computational logic.
 
 Why GCB?
+
 🧩 Backup not just data, but logic and operations
 
 🔗 Provide a symbolic ledger for computation identity and state
@@ -19,6 +20,7 @@ Why GCB?
 🌐 Bridge between symbolic systems, codebases, and protocols
 
 Technical Overview
+
 GCB operates on two core delta functions:
 
 
@@ -34,6 +36,7 @@ b = Symbolic State
 Each computation cycle yields dual outputs — a deterministic arithmetic result and a symbolic transformation — forming a recursive symbolic logic ledger.
 
 Applications
+
 ✅ Blockchain Augmentation & Layer 0/1 Logic Sync
 
 ✅ AI Computation Backup and Explainability
@@ -43,6 +46,7 @@ Applications
 ✅ Web3 Symbolic Smart Contracts & Identity State
 
 Repository Contents
+
 📄 gcb_technical_paper.tex — LaTeX source of the technical whitepaper
 
 📑 gcb_technical_paper.pdf — Compiled paper (to be added)
@@ -50,12 +54,15 @@ Repository Contents
 📝 Example symbolic computation logic snippets (coming soon)
 
 Authors
+
 Muhammad Emmanuelle Michael Varley — Founder, Matrix [0211]
 
 License
+
 MIT License
 
 Get Involved
+
 We welcome collaboration on:
 
 Symbolic computation protocols
