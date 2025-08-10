@@ -44,14 +44,6 @@ Applications
 
 ✅ Web3 Symbolic Smart Contracts & Identity State
 
-Repository Contents
-
-📄 gcb_technical_paper.tex — LaTeX source of the technical whitepaper
-
-📑 gcb_technical_paper.pdf — Compiled paper (to be added)
-
-📝 Example symbolic computation logic snippets (coming soon)
-
 Authors
 
 Muhammad Emmanuelle Michael Varley — Founder, Matrix [0211]
